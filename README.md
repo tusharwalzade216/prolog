@@ -1,0 +1,2 @@
+# prolog
+sample prolog programs
